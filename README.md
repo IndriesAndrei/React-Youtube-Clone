@@ -1,3 +1,6 @@
+![react-youtube-clone](https://user-images.githubusercontent.com/24415865/198236033-5ceb1ef4-7624-415d-9c37-8a39cf0ffabf.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
